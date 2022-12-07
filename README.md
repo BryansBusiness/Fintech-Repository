@@ -1,3 +1,1 @@
-Hello World
-Hello World
-Hello World
+Welcome this is where I will be keeping all my challenge submissions for the Fintech course.
