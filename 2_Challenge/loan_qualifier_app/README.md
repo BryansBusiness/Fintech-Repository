@@ -1,4 +1,4 @@
-# Loan Qualifier Applicagtion
+# Loan Qualifier Application
 
 This application is used as a financial calculator that will provide you with a list of loans you qualify for based off you credit score, monthly debt, monthly income, desired loan amount, and home value. After providing all the details necessary, the loans will be saved to a csv file for you to have the ability to compare all the loans. 
 
