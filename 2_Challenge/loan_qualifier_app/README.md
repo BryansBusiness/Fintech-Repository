@@ -1,33 +1,44 @@
-# Project Title
+# Loan Qualifier Applicagtion
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application is used as a financial calculator that will provide you with a list of loans you qualify for based off you credit score, monthly debt, monthly income, desired loan amount, and home value. After providing all the details necessary, the loans will be saved to a csv file for you to have the ability to compare all the loans. 
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This application requires all the following:
+
+1. Python 3.10.9
+2. Fire 0.3.1
+3. Questionary 1.5.2
+4. CSV
+5. Pathlib
+6. Sys
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Download and import all the modules prior to this guide. After that is completed open your terminal and run the app.py file. You will be met with questions which will have to be answered to get results.
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+Once the app.py file is executed, you will be asked to provide the path for the csv file containing all the loans. After that you will be asked to input your credit score, current monthly debt, total monthly income, desired loan amount, and the home value. Shortly after it will spill out your monthly debt to income ratio, loan to value ratio, and the amount of loans you qualify for. You will be met with the option of saving all the loans you qualify for to a csv file, which can later be used to compare and contrast all the different loans.
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Created by: Bryan Rodriguez
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+This project is in the public domain within the United States.
+
+We waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
+
+
