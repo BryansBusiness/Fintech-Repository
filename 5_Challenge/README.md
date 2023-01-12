@@ -1,4 +1,4 @@
-# Analyzing Portfolio Risk and Return
+# Predicting and planning portfolio perfomance
 
 This application is used as a analysis tool for predicting and planning portfolio performance using API's and Monte Carlo Simulations.
 
