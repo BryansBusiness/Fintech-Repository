@@ -5,4 +5,6 @@ Welcome this is where I will be keeping all my challenge submissions for the Fin
 3. Third Challenge: ✔️
 4. Fourth Challenge: ✔️
 5. Fifth Challenge: ✔️
+6. Sixth Challenge: ✔️
+7. Seventh Challenge:
 
